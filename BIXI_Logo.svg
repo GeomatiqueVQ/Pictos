@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 580 580">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st0, .st1 {
+        fill-rule: evenodd;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st4 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st1 {
+        fill: #e42618;
+      }
+
+      .st5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st2" x="12.4" y="14.5" width="556.5" height="556.5"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st2" x="12.4" y="14.5" width="556.5" height="556.5"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st2" x="12.4" y="14.5" width="556.5" height="556.5"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st2" x="12.4" y="14.5" width="556.5" height="556.5"/>
+    </clipPath>
+  </defs>
+  <g id="svg98" sodipodi:docname="BIXI_Logo2.svg">
+    <sodipodi:namedview id="namedview100" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg98" inkscape:cx="471.4663" inkscape:cy="366.32428" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1912" inkscape:window-y="-1" inkscape:zoom="0.51813859" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+    <g id="g465">
+      <g class="st6">
+        <path id="path440" class="st1" d="M401.4,37.6c-33.6-14.7-71.5-23.1-110.7-23.1C147.7,14.5,31.3,122.4,14.5,259.8h213.1L401.4,37.6Z"/>
+      </g>
+      <g class="st3">
+        <path id="path442" class="st1" d="M356.5,381.7c5.6,0,10.5-2.8,14-7h0l25.9-32.9c.7-2.1,2.1-4.2,2.1-6.3,0-6.3-5.6-11.9-11.9-11.9h-114.2l-44.2,57.5h128.3v.7Z"/>
+      </g>
+      <g class="st5">
+        <path id="path444" class="st1" d="M465.9,76.9l-143,182.9h138.8c19.6.7,32.9,13.3,38.5,23.8,10.5,18.9.7,39.2-3.5,45.6l-62.4,80.6c-16.1,20.3-44.9,36.4-65.2,36.4h-207.4c-8.4.7-18.2-1.4-25.9-7.7-16.1-12.6-18.9-35.7-6.3-52.6l48.4-62.4H14.5c15.4,138.8,133.2,246.7,276.1,246.7s278.2-124,278.2-277.5-40.6-164.7-103-215.9h0Z"/>
+      </g>
+      <g class="st4">
+        <path id="path446" class="st0" d="M129.5,386.7c-12.6,16.1-9.8,39.2,6.3,52.6,7.7,5.6,17.5,8.4,25.9,7.7h207.4c20.3,0,49.1-16.8,65.2-37.1l62.4-79.9c4.2-6.3,14-26.6,3.5-45.6-6.3-11.2-18.9-23.8-38.5-24.5h-138.8l143-182.9c-19.6-15.4-40.6-28.7-64.5-39.2l-173.8,222.2H14.5c-1.4,10.5-2.1,21.7-2.1,32.9s.7,21,2.1,31.5h163.3l-48.4,62.4ZM272.4,324.3h114.2c6.3,0,11.9,4.9,11.9,11.9s-1.4,4.2-2.1,6.3l-25.9,32.2h0c-3.5,4.2-8.4,7-14,7h-128.3l44.2-57.5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
